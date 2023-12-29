@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>toolicon/arrowdown.png</file>
+        <file>toolicon/arrowup.png</file>
+        <file>toolicon/close.png</file>
+        <file>toolicon/cut.png</file>
+        <file>toolicon/emoji.png</file>
+        <file>toolicon/min.png</file>
+        <file>toolicon/pokeball.png</file>
+        <file>toolicon/add-picture.png</file>
+        <file>toolicon/lock.png</file>
+        <file>toolicon/pokeid.png</file>
+        <file>toolicon/preview-close.png</file>
+        <file>toolicon/preview-open.png</file>
+        <file>toolicon/usericon.jpg</file>
+        <file>toolicon/max.png</file>
+        <file>toolicon/restore.png</file>
+        <file>toolicon/moon.png</file>
+        <file>toolicon/sun.png</file>
+        <file>toolicon/close2.png</file>
+        <file>toolicon/minus.png</file>
+        <file>toolicon/ball.png</file>
+        <file>toolicon/pokemon-trainer.png</file>
+        <file>toolicon/close-one.png</file>
+        <file>toolicon/reduce-one.png</file>
+        <file>fileicon/doc.png</file>
+        <file>fileicon/exe.png</file>
+        <file>fileicon/file.png</file>
+        <file>fileicon/jpg.png</file>
+        <file>fileicon/mp3.png</file>
+        <file>fileicon/mp4.png</file>
+        <file>fileicon/pdf.png</file>
+        <file>fileicon/ppt.png</file>
+        <file>fileicon/rar.png</file>
+        <file>fileicon/txt.png</file>
+        <file>fileicon/xlsx.png</file>
+        <file>fileicon/zip.png</file>
+        <file>toolicon/rotate_anti_hover.png</file>
+        <file>toolicon/rotate_clock_hover.png</file>
+        <file>toolicon/addfri.png</file>
+        <file>toolicon/file.png</file>
+        <file>toolicon/hui.jpg</file>
+        <file>toolicon/Luo.jpg</file>
+        <file>toolicon/tian.jpg</file>
+        <file>toolicon/xiang.jpg</file>
+    </qresource>
+</RCC>

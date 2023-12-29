@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/pic">
+        <file>head/01.jpeg</file>
+        <file>head/02.jpeg</file>
+        <file>head/03.jpeg</file>
+        <file>head/04.jpeg</file>
+        <file>background/01.jpeg</file>
+        <file>background/02.jpeg</file>
+        <file>background/pokemon-pokemon-sun-and-moon.gif</file>
+        <file>background/eevee-pikachu.gif</file>
+        <file>background/pokemon-pikachu.gif</file>
+        <file>background/cute.jpg</file>
+    </qresource>
+</RCC>
